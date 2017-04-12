@@ -15,11 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <DistributionManagement>
+  <distributionManagement>
     <repository>
       <id>prod</id>
       <url>http://ec2-54-70-184-67.us-west-2.compute.amazonaws.com:8081/repository/maven-snapshots//</url>
       <name>myprod</name>
     </repository>
-    </DistributionManagement>
+    </distributionManagement>
 </project>
